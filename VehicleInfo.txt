@@ -1,0 +1,5 @@
+MH12-GH5555,MG-Hector,2300,SUV,1
+MH18-FG6666,TATA-Nexon,2000,Hatchback,1
+MH19-IY8734,Force-Traveller,3300,Passenger,1
+MH15-TF2365,Mahindra-Thar,3200,SUV,1
+MH16-YU2365,TATA-Tigor,2100,Sedan,1
